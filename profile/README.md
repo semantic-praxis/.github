@@ -22,12 +22,24 @@ flowchart LR
   Barwise --> MCP[MCP server]
 ```
 
+## Why should I care
+
+Barwise is a hub you can rely on, not a gate you have to clear. When you
+consult it, it keeps implementation honest to the agreed understanding of the
+business; when you don't, delivery rolls on unblocked. It holds a conceptual
+model of your business and connects to the artifacts you already maintain. A
+few people who get something out of that:
+- **You maintain a database or dbt project.** Import your DDL or models and see where the schema has drifted from the meaning it was supposed to capture.
+- **You design APIs.** Compare an OpenAPI spec against the shared model, so an entity means the same thing across services.
+- **You own what the business *means*.** Keep a precise account of your terms and facts — one that stays honest because it's tied to the systems actually running, not a glossary off to the side.
+
 ## Background
 
 Every organization runs on shared meaning: agreements about what its terms refer
 to, which facts it keeps, and how its concepts connect. That meaning is seldom
 written down with any precision, and when it is, the writing tends to go stale.
-Semantic Praxis builds tools and writing for the work of keeping it precise.
+Semantic Praxis builds tools and writing for the work of keeping it precise —
+what domain-driven design calls a *ubiquitous language*.
 
 We take the name seriously. **Praxis** is reflective action: practice and
 theory revising each other as the work goes on. It stands apart from *poiesis*
