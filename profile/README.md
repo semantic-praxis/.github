@@ -1,4 +1,4 @@
-# Semantic Praxis — Reviewed
+# Semantic Praxis
 
 Semantic Praxis builds tools and writing to keep an organisation's shared
 meaning precise. This repository houses Barwise (an ORM 2 toolkit) and
