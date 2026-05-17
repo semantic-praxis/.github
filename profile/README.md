@@ -28,17 +28,17 @@ to, which facts it keeps, and how its concepts connect. That meaning is seldom
 written down with any precision, and when it is, the writing tends to go stale.
 Semantic Praxis builds tools and writing for the work of keeping it precise.
 
-We take the name seriously. *Praxis* — in the sense Aristotle gave it and Paulo
-Freire later sharpened — is reflective action: practice and theory revising each
-other as the work goes on. It stands apart from *poiesis*, the making of a
-product that is finished once made, and from *theoria*, contemplation held at a
-remove from the world. Semantic modeling belongs with praxis. A model of a
-business is never done. The business changes, the people in it change,
-understanding deepens, and the model has to keep up or quietly turn into
-fiction.
+We take the name seriously. **Praxis** is reflective action: practice and
+theory revising each other as the work goes on. It stands apart from *poiesis*,
+the making of a product that is finished once made, and from *theoria*,
+contemplation held at a distance from the world. Semantic modeling _belongs_
+with praxis. The model of a business is never done. The business changes, the
+people in it change, understanding deepens, and the model has to keep up or
+quietly turn into fiction.
 
 This is, in James Carse's terms, an infinite game: one played to keep playing
-rather than to win. A good model is not a deliverable handed off and forgotten.
+rather than to bring to an end - winning in business means you get to keep
+playing, after all. A good model is not a deliverable handed off and forgotten.
 It is an instrument kept in tune. The tools here are made for that ongoing work,
 not for the illusion of a final answer.
 
