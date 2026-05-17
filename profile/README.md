@@ -29,12 +29,12 @@ written down with any precision, and when it is, the writing tends to go stale.
 Semantic Praxis builds tools and writing for the work of keeping it precise.
 
 We take the name seriously. **Praxis** is reflective action: practice and
-theory revising each other as the work goes on. It stands apart from *poiesis*,
-the making of a product that is finished once made, and from *theoria*,
-contemplation held at a distance from the world. Semantic modeling _belongs_
-with praxis. The model of a business is never done. The business changes, the
-people in it change, understanding deepens, and the model has to keep up or
-quietly turn into fiction.
+theory revising each other as the work goes on. It stands apart from *poiesis*
+— making, the turning out of a product that is finished once made — and from
+*theoria* — contemplation, holding the world at a distance. Semantic modeling
+_belongs_ with praxis. The model of a business is never done. The business
+changes, the people in it change, understanding deepens, and the model has to
+keep up or quietly turn into fiction.
 
 This is, in James Carse's terms, an infinite game: one played to keep playing
 rather than to bring to an end - winning in business means you get to keep
