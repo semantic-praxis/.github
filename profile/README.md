@@ -16,7 +16,7 @@ server. Read on for status, background, and contribution guidance.
 
 ```mermaid
 flowchart LR
-  Barwise[Barwise (core library)] --> VSCode[VS Code extension]
+  Barwise["Barwise (core library)"] --> VSCode[VS Code extension]
   Barwise --> CLI[CLI]
   Barwise --> MCP[MCP server]
 ```
