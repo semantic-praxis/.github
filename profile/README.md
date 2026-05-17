@@ -1,9 +1,10 @@
 # Semantic Praxis
 
 Semantic Praxis builds tools and writing to keep an organisation's shared
-meaning precise. This repository houses Barwise (an ORM 2 toolkit) and
-associated surfaces: a core library, a VS Code extension, a CLI, and an MCP
-server. Read on for status, background, and contribution guidance.
+meaning precise. This repository houses Barwise, an Object-Role Modeling
+(ORM 2) toolkit — a fact-based conceptual modeling method — and associated
+surfaces: a core library, a VS Code extension, a CLI, and an MCP server.
+Read on for status, background, and contribution guidance.
 
 ## Projects
 - **barwise:** ORM 2 tool — core library, VS Code extension, CLI, MCP server. https://github.com/semantic-praxis/barwise (primary project)
@@ -42,7 +43,7 @@ playing, after all. A good model is not a deliverable handed off and forgotten.
 It is an instrument kept in tune. The tools here are made for that ongoing work,
 not for the illusion of a final answer.
 
-## Contributing (actionable)
+## Contributing
 - Open issues and pull requests on the linked project repo (see Projects).
 - Target branch: `main`. Include a short description, motivation, and tests where applicable.
 - For design or method questions, open a discussion on the project repo so we can capture the conversation.
